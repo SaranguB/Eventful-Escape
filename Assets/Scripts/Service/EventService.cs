@@ -19,7 +19,7 @@ public class EventService
 
     public EventService()
     {
-        OnLightSwitchToggled = new EventController();
+        OnLightSwitchToggled = new EventController();   
     }
 
 
